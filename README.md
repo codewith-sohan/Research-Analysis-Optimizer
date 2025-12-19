@@ -93,6 +93,7 @@ Students use the platform to find opportunities and craft high-quality applicati
 *	Trending Opportunities (/papers): A feed of open positions posted by professors.
  *	Students can "Quick Apply" or use "Review & Apply" to let AI analyze the posting before applying.
 *	Application Tracking (/my_applications): View status of sent applications (Pending/Selected).
+*	![Image](https://github.com/user-attachments/assets/0bacc27e-c6a1-41bc-a7d0-18c9ea2fce82)
 ### 2. Professor Workflow
 Professors use the platform to manage recruitment overhead.
 #### *	Dashboard (/professor):
@@ -102,6 +103,8 @@ Professors use the platform to manage recruitment overhead.
  *	View a table of candidates.
  *	Actions: Download attached Resumes (PDF), read the specific Cover Letter, and "Select" candidates.
  *	Inbox: A specific inbox for "Cold Applications" (unsolicited applications generated via the Optimizer).
+ *	<img width="1210" height="779" alt="Image" src="https://github.com/user-attachments/assets/52769376-08b8-40da-a070-2baada86d9d5" />
+ <img width="1208" height="839" alt="Image" src="https://github.com/user-attachments/assets/b969f331-2af9-4856-9b0e-34f37665fcbb" />
 ### 3. Key Features Breakdown
 | Feature | Description | Tech Used |
 | :---       | :---:        | ---:        |
